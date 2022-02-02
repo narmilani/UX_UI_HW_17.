@@ -1,2 +1,8 @@
-# UX_UI_HW_17.
-Homework 17
+
+<nav>
+  <ul>
+    <li class="active"><a href="">First</a></li>
+    <li><a href="">Second</a></li>
+    <li><a href="">Third</a></li>
+  </ul>
+</nav>
